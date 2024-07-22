@@ -1,6 +1,7 @@
 ## Análisis de Imágenes
 
 Este proyecto es una aplicación que permite realizar análisis de imágenes utilizando técnicas de procesamiento de imágenes.
+El proyecto se hizo en Google colab
 
 ### Características
 
